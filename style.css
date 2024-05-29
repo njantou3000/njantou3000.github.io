@@ -4,6 +4,7 @@ h1{
     font-style: italic;
 }
 body{
-    background: url(/hackeur.jpeg);
-
+ 
+ background: url(./hackeur.jpg);
 }
+B{color: blueviolet;}
